@@ -22,6 +22,7 @@
 - `io.StringIO` を用いて、複数のテストケース（お題に沿って異なるテストを15個）を自動実行できる検証用Pythonスクリプトを生成。
 - **制約（Constraints）がある場合は、その範囲を全般的に網羅するテストケース（最大値、最小値、0、境界値など）を必ず含めること。**
 - 解答関数が正しいかその場でテストできること。
+- **Markdown (Section 1) にも、代表的なテストケース（5個程度）を、ユーザーが手動で試せる形式で表とコードブロックとして含めること。**
 
 ### 2. Educational Comments:
 全ての解答例に、ロジックを説明するコメントを豊富に記載する。
@@ -49,6 +50,36 @@
 - **Standard (Readable)**: [コード + 日本語解説]
 - **Advanced (Efficient)**: [コード + 日本語解説]
 - **Shortest (Golfing)**: [コード + 日本語解説]
+
+#### 🧪 テストケース (Test Cases)
+ユーザーが手動で動作確認するためのテストケースです。
+
+| No | Input | Output | Description |
+|:---|:---|:---|:---|
+| 1 | `[Input Example]` | `[Output Example]` | [Description] |
+| 2 | ... | ... | ... |
+
+```python
+# 以下のコードブロックに自分の回答を書き、上記のテストケースを TEST_INPUT に貼り付けて実行してください。
+import sys
+from io import StringIO
+
+# --- 🧪 テスト実行用設定 ---
+TEST_INPUT = """
+[ここにInputを貼り付け]
+"""
+sys.stdin = StringIO(TEST_INPUT.strip())
+# -----------------------
+
+def solve():
+    # 競技プログラミング形式（input() など）でそのまま記述できます
+    import sys
+    # ここにプログラミングを記述
+    pass
+
+if __name__ == "__main__":
+    solve()
+```
 
 ## 📋 Output Format section 2 (Auto Judge python Template)
 

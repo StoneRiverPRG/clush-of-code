@@ -8,3 +8,4 @@
 | 002 | 最大値の検索 | Easy | #max #list | [Detail](./problems/002_max_value.md) |
 | 003 | Even Sum in 2D Array | Easy | #2次元配列 #スライス | [Detail](./problems/003_even_sum_2d_array.md) |
 | 004 | Prank Calculator | Easy | #math #if #演算子 | [Detail](./problems/004_prank_calculator.md) |
+| 005 | 数値の合計 | Easy | #math #sum #input | [Detail](./problems/005_sum_of_n.md) |

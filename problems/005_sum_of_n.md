@@ -1,16 +1,49 @@
 ### 005: Sum of N Integers (数値の合計)
 - **Difficulty:** Easy
-- **Tags:** #math #sum #input
+- **Tags:** #REVERSE #math #sum #input
 
 #### 📝 Original Statement (English)
 The game mode is REVERSE: You do not have access to the statement. You have to guess what to do by observing the following set of tests.
 
-**Input:**
-- An integer `N` (the number of integers to sum).
-- `N` subsequent integers, each on a new line.
+**Test 1**
+Input:
+3
+1
+2
+3
+Expected output: 6
 
-**Output:**
-- The sum of the `N` integers.
+**Test 2**
+Input:
+5
+1
+2
+1
+10
+0
+Expected output: 14
+
+**Test 3**
+Input:
+2
+5
+2
+Expected output: 7
+
+**Test 4**
+Input:
+1
+8
+Expected output: 8
+
+**Test 5**
+Input:
+4
+42
+0
+1337
+666
+Expected output: 2045
 
 #### 🇯🇵 日本語問題文
 この問題は「REVERSE」モードです。問題文は提示されません。テストケースの入出力から、どのような処理を行うべきか推測してください。

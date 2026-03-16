@@ -9,3 +9,5 @@
 | 003 | Even Sum in 2D Array | Easy | #2次元配列 #スライス | [Detail](./problems/003_even_sum_2d_array.md) |
 | 004 | Prank Calculator | Easy | #math #if #演算子 | [Detail](./problems/004_prank_calculator.md) |
 | 005 | 数値の合計 | Easy | #math #sum #input | [Detail](./problems/005_sum_of_n.md) |
+| 006 | Leetspeak Converter | Easy | #string #replace #leet | [Detail](./problems/006_leetspeak_converter.md) |
+| 007 | 次なる奇数 | Easy | #math #logic #odd-even | [Detail](./problems/007_next_odd.md) |

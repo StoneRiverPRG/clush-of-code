@@ -12,3 +12,4 @@
 | 006 | Leetspeak Converter | Easy | #string #replace #leet | [Detail](./problems/006_leetspeak_converter.md) |
 | 007 | 次なる奇数 | Easy | #math #logic #odd-even | [Detail](./problems/007_next_odd.md) |
 | 008 | Our thing (共有財産) | Easy | #string #regex #basic | [Detail](./problems/008_our_thing.md) |
+| 009 | 斜辺の計算機 | Easy | #math #sqrt #round | [Detail](./problems/009_hypotenuse_calculator.md) |

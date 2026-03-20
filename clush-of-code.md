@@ -14,3 +14,5 @@
 | 008 | Our thing (共有財産) | Easy | #string #regex #basic | [Detail](./problems/008_our_thing.md) |
 | 009 | 斜辺の計算機 | Easy | #math #sqrt #round | [Detail](./problems/009_hypotenuse_calculator.md) |
 | 010 | ビットカウンター | Easy | #bit #string #math | [Detail](./problems/010_bit_counter.md) |
+| 011 | 奇偶アキュムレータ | Easy | #math #loop #logic | [Detail](./problems/011_odd_even_accumulator.md) |
+| 012 | 奇数番目合計 (REVERSE) | Easy | #string #math #reverse | [Detail](./problems/012_odd_pos_sum.md) |
